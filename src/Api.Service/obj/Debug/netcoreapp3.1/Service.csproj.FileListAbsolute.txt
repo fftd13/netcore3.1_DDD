@@ -1,0 +1,9 @@
+C:\Users\felli\Dev\cursoddd\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\felli\Dev\cursoddd\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\felli\Dev\cursoddd\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\felli\Dev\cursoddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\felli\Dev\cursoddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\felli\Dev\cursoddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\felli\Dev\cursoddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\felli\Dev\cursoddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\felli\Dev\cursoddd\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

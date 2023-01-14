@@ -1,0 +1,8 @@
+C:\Users\felli\Dev\cursoddd\src\Api.Crosscut\bin\Debug\netcoreapp3.1\Crosscut.deps.json
+C:\Users\felli\Dev\cursoddd\src\Api.Crosscut\bin\Debug\netcoreapp3.1\Crosscut.dll
+C:\Users\felli\Dev\cursoddd\src\Api.Crosscut\bin\Debug\netcoreapp3.1\Crosscut.pdb
+C:\Users\felli\Dev\cursoddd\src\Api.Crosscut\obj\Debug\netcoreapp3.1\Crosscut.AssemblyInfoInputs.cache
+C:\Users\felli\Dev\cursoddd\src\Api.Crosscut\obj\Debug\netcoreapp3.1\Crosscut.AssemblyInfo.cs
+C:\Users\felli\Dev\cursoddd\src\Api.Crosscut\obj\Debug\netcoreapp3.1\Crosscut.csproj.CoreCompileInputs.cache
+C:\Users\felli\Dev\cursoddd\src\Api.Crosscut\obj\Debug\netcoreapp3.1\Crosscut.dll
+C:\Users\felli\Dev\cursoddd\src\Api.Crosscut\obj\Debug\netcoreapp3.1\Crosscut.pdb
