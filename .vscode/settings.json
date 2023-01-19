@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "editor.fontSize": 16,
+    "editor.cursorBlinking": "blink",
+    "editor.cursorStyle": "line"
+}
